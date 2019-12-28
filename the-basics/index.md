@@ -36,7 +36,7 @@ permalink: /the-basics/
 
 * Leaflet - легкая и простая в освоении
 
-Если вы решили использовать тайлы MapQuest Open, в основе которых также данные OSM, то посмотрите в сторону [MapQuest Open API](http://developer.mapquest.com/web/products/open/sdk). Имеются API и для мобильных платформ: [Route-Me](https://github.com/route-me/route-me) (iOS) и [osmdroid](https://github.com/osmdroid/osmdroid) (Android).
+Имеются API и для мобильных платформ: [Route-Me](https://github.com/route-me/route-me) (iOS) и [osmdroid](https://github.com/osmdroid/osmdroid) (Android).
 
 # Лицензия
 
