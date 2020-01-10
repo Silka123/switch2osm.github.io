@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Иное использование
+title: Другое использование
 permalink: /other-uses/
 ---
 
