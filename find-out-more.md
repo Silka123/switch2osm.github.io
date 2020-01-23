@@ -21,7 +21,7 @@ OpenStreetMap - это децентрализованный, волонтерс�
 * [Делаем сервер с помощью MapServer](http://trac.osgeo.org/mapserver/wiki/RenderingOsmDataUbuntu)
 
 ## Редактирование OpenStreetMap
-* [LearnOSM.org](http://www.learnosm.org/) руководство для начинающих
+* [LearnOSM.org](https://learnosm.org/ru/) руководство для начинающих
 
 ## Книги
 * [OpenStreetMap: Using and Enhancing the Free Map of the World](http://openstreetmap.info/) (на английском/немецком)
